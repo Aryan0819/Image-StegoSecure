@@ -28,8 +28,8 @@ This project focuses on **steganography**, a technique for hiding secret message
 ---
 
 ### ✨ Key Features & "Wow" Factor
-- ]**Pixel-Level Embedding**: Encrypts and embeds secret text directly into the pixel values of the image.
--**Dual-Layer Authentication**: Unlike standard methods, this system requires both a **passcode** and the **exact message length** to decrypt the information.
+- **Pixel-Level Embedding**: Encrypts and embeds secret text directly into the pixel values of the image.
+- **Dual-Layer Authentication**: Unlike standard methods, this system requires both a **passcode** and the **exact message length** to decrypt the information.
 - **Visual Integrity**: Maintains the original appearance of the image to ensure communication remains covert.
 
 ### 🚀 Usage Snapshot
