@@ -17,7 +17,7 @@ This project focuses on **steganography**, a technique for hiding secret message
 
 ### 🛠️ Technical Toolkit
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,vscode,github,linux" />
+  <img src="https://skillicons.dev/icons?i=py,vscode,github" />
 </p>
 
 - **Core Language**: Python.
